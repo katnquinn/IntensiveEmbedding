@@ -1,0 +1,4 @@
+#ignoring folders with pickled data
+cmb_data/
+ising_data/
+mnist_data/
